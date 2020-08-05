@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "x",
+    "x",
+    "i"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "greenrubis:ruby"
+    },
+    "i":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "greenrubis:ruby_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "x x",
+    "x x"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "greenrubis:ruby"
+    }
+  },
+  "result":
+  {
+    "item": "greenrubis:ruby_boots",
+    "count": 1
+  }
+}

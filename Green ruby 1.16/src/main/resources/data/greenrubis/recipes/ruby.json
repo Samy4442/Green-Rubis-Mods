@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":
+  [
+    {
+      "item": "greenrubis:ruby_block"
+    }
+  ],
+  "result":
+  {
+    "item": "greenrubis:ruby",
+    "count": 9
+  }
+}

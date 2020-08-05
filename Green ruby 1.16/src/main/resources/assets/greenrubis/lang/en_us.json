@@ -1,0 +1,17 @@
+{
+  "item.greenrubis.ruby": "Ruby",
+  "block.greenrubis.ruby_block":  "Block of Ruby",
+  "block.greenrubis.ruby_ore_overworld": "Ruby Ore",
+  "block.greenrubis.ruby_ore_nether": "Nether Ruby Ore",
+  "block.greenrubis.ruby_ore_end": "End Ruby Ore",
+  "itemGroup.GreenRubisTab": "Green Rubis",
+  "item.greenrubis.ruby_sword": "Ruby Sword",
+  "item.greenrubis.ruby_pickaxe": "Ruby Pickaxe",
+  "item.greenrubis.ruby_axe": "Ruby Axe",
+  "item.greenrubis.ruby_hoe": "Ruby Hoe",
+  "item.greenrubis.ruby_shovel": "Ruby Shovel",
+  "item.greenrubis.ruby_helmet": "Ruby Helmet",
+  "item.greenrubis.ruby_chestplate": "Ruby Chestplate",
+  "item.greenrubis.ruby_leggings": "Ruby Leggings",
+  "item.greenrubis.ruby_boots": "Ruby Boots"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient":
+  {
+    "item": "greenrubis:ruby_block"
+  },
+  "result": "greenrubis:ruby",
+  "experience" : 2.5,
+  "cookingtime": 75,
+  "count": 9
+}

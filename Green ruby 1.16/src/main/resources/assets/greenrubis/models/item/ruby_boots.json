@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "greenrubis:items/ruby_boots"
+  }
+}

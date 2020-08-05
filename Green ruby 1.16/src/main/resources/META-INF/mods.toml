@@ -1,0 +1,34 @@
+modLoader="javafml" #mandatory
+loaderVersion="[31,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+issueTrackerURL="https://github.com/Samy4442/Green-Rubis-Mods/issues" #optional
+[[mods]] #mandatory
+modId="greenrubis" #mandatory
+version="1.16.0-1.0.0" #mandatory
+displayName="Green ruby" #mandatory
+updateJSONURL="http://tralamy.com/" #optional
+displayURL="https://github.com/Samy4442/Green-Rubis-Mods/" #optional
+logoFile="ruby.png" #optional
+credits="Tralamy - TechnoVision tuto" #optional
+authors="Tralamy" #optional
+description='''
+This mods add a super green ruby, armor and more!
+'''
+# A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
+[[dependencies.examplemod]] #optional
+    # the modid of the dependency
+    modId="forge" #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="[31,)" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT or SERVER
+    side="BOTH"
+# Here's another dependency
+[[dependencies.examplemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.0]"
+    ordering="NONE"
+    side="BOTH"
